@@ -1,0 +1,11 @@
+pandas
+numpy
+openpyxl
+scipy
+reportlab
+streamlit
+watchdog
+crewai
+langchain
+openai
+python-dotenv
