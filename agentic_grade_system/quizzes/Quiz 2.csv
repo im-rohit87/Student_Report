@@ -1,0 +1,154 @@
+"Timestamp","Total score","Name","Name [Score]","Name [Feedback]","Email","Email [Score]","Email [Feedback]","1. What is the output of the following code? 
+x = 10
+y = 3
+print(x // y)","1. What is the output of the following code? 
+x = 10
+y = 3
+print(x // y) [Score]","1. What is the output of the following code? 
+x = 10
+y = 3
+print(x // y) [Feedback]","2.What is the output of the following code? 
+a = ""5""
+b = 2
+print(a * b)","2.What is the output of the following code? 
+a = ""5""
+b = 2
+print(a * b) [Score]","2.What is the output of the following code? 
+a = ""5""
+b = 2
+print(a * b) [Feedback]","3. What is the output of the following code? 
+x = 7
+
+if x > 10:
+print(""A"")
+elif x > 5:
+print(""B"")
+else:
+print(""C"")","3. What is the output of the following code? 
+x = 7
+
+if x > 10:
+print(""A"")
+elif x > 5:
+print(""B"")
+else:
+print(""C"") [Score]","3. What is the output of the following code? 
+x = 7
+
+if x > 10:
+print(""A"")
+elif x > 5:
+print(""B"")
+else:
+print(""C"") [Feedback]","4. Which of the following statements about Python is true?  ","4. Which of the following statements about Python is true?   [Score]","4. Which of the following statements about Python is true?   [Feedback]","5. What is the output of the following code? 
+x = 5
+print(bool(x))","5. What is the output of the following code? 
+x = 5
+print(bool(x)) [Score]","5. What is the output of the following code? 
+x = 5
+print(bool(x)) [Feedback]","6. What is the output of the following code? 
+for i in range(2, 8, 2):
+print(i, end="" "")","6. What is the output of the following code? 
+for i in range(2, 8, 2):
+print(i, end="" "") [Score]","6. What is the output of the following code? 
+for i in range(2, 8, 2):
+print(i, end="" "") [Feedback]"," 7. What is the output of the following code?  
+x = [1, 2, 3]
+print(len(x))"," 7. What is the output of the following code?  
+x = [1, 2, 3]
+print(len(x)) [Score]"," 7. What is the output of the following code?  
+x = [1, 2, 3]
+print(len(x)) [Feedback]","  8. Which of the following creates an empty list?  ","  8. Which of the following creates an empty list?   [Score]","  8. Which of the following creates an empty list?   [Feedback]"," 9. What is the output of the following code?  
+numbers = [10, 20, 30]
+print(numbers[-1])"," 9. What is the output of the following code?  
+numbers = [10, 20, 30]
+print(numbers[-1]) [Score]"," 9. What is the output of the following code?  
+numbers = [10, 20, 30]
+print(numbers[-1]) [Feedback]","10. What is the output of the following code? 
+x = [1, 2]
+y = [3, 4]
+print(x + y)","10. What is the output of the following code? 
+x = [1, 2]
+y = [3, 4]
+print(x + y) [Score]","10. What is the output of the following code? 
+x = [1, 2]
+y = [3, 4]
+print(x + y) [Feedback]","11. Which of the following comparisons evaluates to True?  ","11. Which of the following comparisons evaluates to True?   [Score]","11. Which of the following comparisons evaluates to True?   [Feedback]","12. What is the output of the following code? 
+x = 0
+
+while x < 3:
+print(x, end="" "")
+x += 1","12. What is the output of the following code? 
+x = 0
+
+while x < 3:
+print(x, end="" "")
+x += 1 [Score]","12. What is the output of the following code? 
+x = 0
+
+while x < 3:
+print(x, end="" "")
+x += 1 [Feedback]","13. What is the output of the following code? 
+lst = [5, 10, 15]
+lst.insert(1, 7)
+print(lst)","13. What is the output of the following code? 
+lst = [5, 10, 15]
+lst.insert(1, 7)
+print(lst) [Score]","13. What is the output of the following code? 
+lst = [5, 10, 15]
+lst.insert(1, 7)
+print(lst) [Feedback]","14. What is the output of the following code? 
+x = [1, 2, 3]
+print(2 in x)","14. What is the output of the following code? 
+x = [1, 2, 3]
+print(2 in x) [Score]","14. What is the output of the following code? 
+x = [1, 2, 3]
+print(2 in x) [Feedback]","15. What is the output of the following code? 
+for i in range(1, 5):
+if i == 3:
+break
+print(i, end="" "")","15. What is the output of the following code? 
+for i in range(1, 5):
+if i == 3:
+break
+print(i, end="" "") [Score]","15. What is the output of the following code? 
+for i in range(1, 5):
+if i == 3:
+break
+print(i, end="" "") [Feedback]"
+"2026/06/16 12:34:00 PM GMT+5:30","14.00 / 15","Sakshi Chauhan","-- / 0","","Sakshichauhanbtech23-27@liet.in","-- / 0","","3.0","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:35:11 PM GMT+5:30","15.00 / 15","VIPUL PANDEY ","-- / 0","","vipulpandeybtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:35:36 PM GMT+5:30","13.00 / 15","Vivek yadav","-- / 0","","Vivekyadavbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","52","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:35:54 PM GMT+5:30","4.00 / 15","Sanskar ","-- / 0","","sanskarbtech23-27@liet.in","-- / 0","","3.0","0.00 / 1","The correct answer is right because x, y, z","52","0.00 / 1","Options 1 and 3 are wrong because x, y, z","C","0.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","Error","0.00 / 1","","1 3 5 7","0.00 / 1","","2","0.00 / 1","","list = []","1.00 / 1","","Error","0.00 / 1","","[4, 6]","0.00 / 1","","10 != 10","0.00 / 1","","0 1 2","1.00 / 1","","[7, 5, 10, 15]","0.00 / 1","","Error","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:36:01 PM GMT+5:30","13.00 / 15","Satyansh Rawat ","-- / 0","","satyanshrawatbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2 3","0.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:36:03 PM GMT+5:30","12.00 / 15","Vishal kumar","-- / 0","","Vk9491015@gmail.com","-- / 0","","3","1.00 / 1","","52","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[[1, 2], [3, 4]]","0.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:36:05 PM GMT+5:30","12.00 / 15","MOHIT","-- / 0","","MOHITbtech23-27@liet.in","-- / 0","","4","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:36:05 PM GMT+5:30","15.00 / 15","Aman Singh ","-- / 0","","amans64788@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:36:46 PM GMT+5:30","14.00 / 15","Harshit Rai ","-- / 0","","harshitraibtech23-27@liet.in","-- / 0","","3","1.00 / 1","","10","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:36:47 PM GMT+5:30","14.00 / 15","Ansh Tyagi ","-- / 0","","anshtyagi189@gmail.com","-- / 0","","3","1.00 / 1","","10","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:37:12 PM GMT+5:30","12.00 / 15","Ayush Pal","-- / 0","","ayushpalbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6 8","0.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","""5"" == 5","0.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2 4","0.00 / 1",""
+"2026/06/16 12:37:25 PM GMT+5:30","14.00 / 15","Nilesh sarkar ","-- / 0","","nileshsarkar430@gmail.com","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:37:35 PM GMT+5:30","11.00 / 15","Puspendra Yadav","-- / 0","","pushpendrayadav8434@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","Error","0.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","1 2 3","0.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:37:40 PM GMT+5:30","13.00 / 15","Devashish Dobhal","-- / 0","","devashishdobhal8@gmail.com","-- / 0","","3.0","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2 4","0.00 / 1",""
+"2026/06/16 12:37:51 PM GMT+5:30","15.00 / 15","Prateek Rai ","-- / 0","","prateekraibtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:38:16 PM GMT+5:30","11.00 / 15","Vishujeet ","-- / 0","","vishujeetrathor@gmail.com","-- / 0","","3","1.00 / 1","","52","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[[1, 2], [3, 4]]","0.00 / 1","","7 < 2","0.00 / 1","","0 1 2","1.00 / 1","","[7, 5, 10, 15]","0.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:38:42 PM GMT+5:30","5.00 / 15","Aman kumar ","-- / 0","","ak8102347910@gmail.com","-- / 0","","3.0","0.00 / 1","The correct answer is right because x, y, z","Error","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","B.Python is case-insensitive.","0.00 / 1","","","","","2 4 6 8","0.00 / 1","","3","1.00 / 1","","","","","","","","","","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","","","","1 2 3","0.00 / 1",""
+"2026/06/16 12:39:02 PM GMT+5:30","9.00 / 15","Garima singh","-- / 0","","gsinghakca@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","B.Python is case-insensitive.","0.00 / 1","","True","1.00 / 1","","2 4 6 8","0.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","""5"" == 5","0.00 / 1","","0 1 2 3","0.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:39:07 PM GMT+5:30","8.00 / 15","Krishna Kumar sah ","-- / 0","","ksah9189@gmail.com","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","52","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","Error","0.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[4, 6]","0.00 / 1","","""5"" == 5","0.00 / 1","","0 1 2","1.00 / 1","","[5, 10, 15, 7]","0.00 / 1","","True","1.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:39:25 PM GMT+5:30","12.00 / 15","Aman singh","-- / 0","","amansingh1btech23-27@liet.in","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","C","0.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","2","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:40:19 PM GMT+5:30","12.00 / 15","Happy","-- / 0","","happybtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","B.Python is case-insensitive.","0.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2 4","0.00 / 1",""
+"2026/06/16 12:40:21 PM GMT+5:30","14.00 / 15","Kanak Gupta","-- / 0","","kanak.gup1234@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[[1, 2], [3, 4]]","0.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:40:35 PM GMT+5:30","13.00 / 15","PIYUSH SINGH","-- / 0","","piyushsingh1982004@gmail.com","-- / 0","","3","1.00 / 1","","Error","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 3 4 5 6 7","0.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:40:38 PM GMT+5:30","5.00 / 15","Aman Kumar ","-- / 0","","amankumarbtech23-27@liet.in","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","Error","0.00 / 1","Options 1 and 3 are wrong because x, y, z","C","0.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 3 4 5 6 7","0.00 / 1","","3","1.00 / 1","","list = {}","0.00 / 1","","30","1.00 / 1","","[4, 6]","0.00 / 1","","7 < 2","0.00 / 1","","0 1 2 3","0.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:41:00 PM GMT+5:30","5.00 / 15","Shreyanshi yadav ","-- / 0","","yadavshreyanshi022@gmail.com","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","Error","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","False","0.00 / 1","","2 4 6 8","0.00 / 1","","2","0.00 / 1","","list = """"","0.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","""5"" == 5","0.00 / 1","","0 1 2","1.00 / 1","","[7, 5, 10, 15]","0.00 / 1","","2","0.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:41:18 PM GMT+5:30","14.00 / 15","Shivam Chaudhary ","-- / 0","","shivamchaudharybtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","Error","0.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:41:35 PM GMT+5:30","14.00 / 15","Prem Kumar Jha","-- / 0","","premkumarjhabtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","D.Python variables must be declared before use.","0.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:42:07 PM GMT+5:30","11.00 / 15","Ayush Saw","-- / 0","","ayushsawbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","Error","0.00 / 1","Options 1 and 3 are wrong because x, y, z","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","Error","0.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[[1, 2], [3, 4]]","0.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2 3","0.00 / 1",""
+"2026/06/16 12:53:35 PM GMT+5:30","13.00 / 15","Anurag kumar singh","-- / 0","","anusingh99361634@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = {}","0.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","1 2 3","0.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 12:56:38 PM GMT+5:30","14.00 / 15","Amrendra Ram Tripathi ","-- / 0","","amrendraramtripathibtech23-27@liet.in","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 1:14:18 PM GMT+5:30","9.00 / 15","Nisha Gupta ","-- / 0","","nishaguptabtech23-27@liet.in","-- / 0","","3.33","0.00 / 1","The correct answer is right because x, y, z","55","1.00 / 1","","B","1.00 / 1","","D.Python variables must be declared before use.","0.00 / 1","","0","0.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[[1, 2], [3, 4]]","0.00 / 1","","""5"" == 5","0.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2 4","0.00 / 1",""
+"2026/06/16 1:33:50 PM GMT+5:30","15.00 / 15","Shivangi Pandey ","-- / 0","","shivangipandeyabc@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 1:43:22 PM GMT+5:30","14.00 / 15","Deepanshu","-- / 0","","deepanshu3btech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[4, 6]","0.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/16 2:29:15 PM GMT+5:30","9.00 / 15","Rahul Yadav","-- / 0","","rahulyadavbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","A","0.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","1 3 5 7","0.00 / 1","","","","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","7 < 2","0.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","False","0.00 / 1","","","",""
+"2026/06/16 9:40:55 PM GMT+5:30","15.00 / 15","RITIK ","-- / 0","","kumarritik38269@gmail.com","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
+"2026/06/17 7:53:47 AM GMT+5:30","15.00 / 15","Sonu Kumar","-- / 0","","sonukumarbtech23-27@liet.in","-- / 0","","3","1.00 / 1","","55","1.00 / 1","","B","1.00 / 1","","C.Python supports object-oriented programming.","1.00 / 1","","True","1.00 / 1","","2 4 6","1.00 / 1","","3","1.00 / 1","","list = []","1.00 / 1","","30","1.00 / 1","","[1, 2, 3, 4]","1.00 / 1","","3 <= 3","1.00 / 1","","0 1 2","1.00 / 1","","[5, 7, 10, 15]","1.00 / 1","","True","1.00 / 1","","1 2","1.00 / 1",""
