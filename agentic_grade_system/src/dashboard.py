@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
@@ -19,25 +20,33 @@ st.title("🎓 Agentic AI Training Performance Dashboard")
 # LOAD DATA
 # ==================================================
 
-performance_file = "outputs/Master_Performance.xlsx"
-student_file = "student_data/Master_Student_List.xlsx"
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+performance_file = BASE_DIR / "outputs" / "Master_Performance.xlsx"
+
+student_file = BASE_DIR / "student_data" / "Master_Student_List.xlsx"
+
+# Debug section (remove later if desired)
+st.sidebar.write("BASE_DIR:", BASE_DIR)
+st.sidebar.write("Performance File Exists:", performance_file.exists())
+st.sidebar.write("Student File Exists:", student_file.exists())
 
 try:
-
     df = pd.read_excel(performance_file)
 
 except Exception as e:
-
-    st.error(f"Cannot load {performance_file}")
+    st.error(
+        f"Cannot load:\n{performance_file}\n\n{e}"
+    )
     st.stop()
 
 try:
-
     student_df = pd.read_excel(student_file)
 
 except Exception as e:
-
-    st.error(f"Cannot load {student_file}")
+    st.error(
+        f"Cannot load:\n{student_file}\n\n{e}"
+    )
     st.stop()
 
 # ==================================================
@@ -131,10 +140,6 @@ else:
         f"**Email:** {student_info['Email']}"
     )
 
-    # ======================================
-    # SEND INDIVIDUAL REPORT CARD
-    # ======================================
-
     if st.button(
         "📨 Send Report Card",
         key="send_single"
@@ -143,7 +148,8 @@ else:
         try:
 
             pdf_path = (
-                Path("outputs")
+                BASE_DIR
+                / "outputs"
                 / "Grade_Cards"
                 / f"{selected_student}.pdf"
             )
@@ -196,8 +202,9 @@ if st.button("🚀 Send Report Cards To All Students"):
             email = row["Email"]
 
             pdf_path = (
-                Path("outputs")
-                / "grade_cards"
+                BASE_DIR
+                / "outputs"
+                / "Grade_Cards"
                 / f"{name}.pdf"
             )
 
@@ -219,7 +226,7 @@ if st.button("🚀 Send Report Cards To All Students"):
             )
 
             status_box.info(
-                f"Sending {index+1}/{total}"
+                f"Sending {index + 1}/{total}"
             )
 
         except Exception:
@@ -319,3 +326,4 @@ st.dataframe(
 st.success(
     "Dashboard Loaded Successfully"
 )
+
